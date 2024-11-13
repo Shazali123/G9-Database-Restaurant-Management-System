@@ -10,7 +10,10 @@ The main objective of making the restaurant management system is to increase the
 income effectively and reduce the mistakes that are always made by the restaurant management 
 to attract customers to come to the store and be able to be competitive healthily. The following 
 are the objectives applied in this paper: 
+
 i) To aid in the more effective and efficient management of the restaurant by computerised 
 inventory control, billing, and meal ordering. 
+
 ii) To prevent the lack of communication that is caused by handwriting from waiter to chef. 
+
 iii) To avoid mistakes when taking orders and lack of time management.
