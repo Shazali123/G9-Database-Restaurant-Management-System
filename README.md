@@ -4,6 +4,7 @@ records and record orders made by customers. Additionally, allowing employees to
 restaurant records as they wish. 
 To protect the privacy and security of records, employees have limited access. The database is 
 stored throughout the entire duration of the project. 
+
 1.5 Project Objective 
 The main objective of making the restaurant management system is to increase the monthly 
 income effectively and reduce the mistakes that are always made by the restaurant management 
